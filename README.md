@@ -11,8 +11,9 @@
 </ol>
 
 <h2>Pasos a seguir</h2>
-<h3>1.-Instalación de librerias</h3>
+<h3>1.-Instalación de librerias
 ``` bash 
 pip install openpyxl 
 ```
+  </h3>
 ###pip install pandas
