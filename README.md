@@ -13,5 +13,5 @@
 <h2>Pasos a seguir</h2>
 1.-Instalación de librerias
 ```bash
-pip install openpyml
+pip install openpyml 
 ```
