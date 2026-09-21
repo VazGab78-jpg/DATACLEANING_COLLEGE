@@ -15,4 +15,6 @@
 ``` bash 
 pip install openpyxl 
 ```
-<h3>pip install pandas</h3>
+``` bash 
+pip install pandas
+```
